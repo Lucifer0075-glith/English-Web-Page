@@ -1,0 +1,40 @@
+.f1{
+    border-radius: 3px solid black;
+    box-shadow: 5px;
+    text-align: justify;
+    
+    color: rgb(14, 14, 14);
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.75);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    align-items: center;
+}
+table,th,tb{
+    border: 2px solid rgb(95, 247, 7);
+    text-align: left;
+}
+.aligned{
+    display: flex;
+    align-items: center;
+}
+span{
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+}
+h2{
+    text-align: justify;
+}
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    grid-column: left;
+}
+menu{
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+}
+
